@@ -1,0 +1,3 @@
+MapReduce is a programming model for processing large data sets.
+Distributed systems improve scalability and reliability.
+Data analysis is important in big data applications.

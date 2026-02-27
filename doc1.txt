@@ -1,0 +1,3 @@
+Hadoop enables distributed processing of large data sets.
+Hadoop uses MapReduce for scalable data analysis.
+Big data processing requires distributed systems.
